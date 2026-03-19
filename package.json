@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "parcel": "^2.15.4"
+  },
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "geotracker application",
+  "default": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Noah clark",
+  "license": "ISC"
+}
